@@ -73,18 +73,24 @@ Benchmark and survey-based planning
 
 # 📊 Database Highlights
 
-BookBridge includes optimized queries and analytics such as:
+Functional SQL Operations
 
-SUM() and COUNT() operations for sales analytics
+Fetch best-selling books
 
-JOIN queries for mapping users and transactions
+Calculate monthly revenue
 
-Subqueries to detect:
+Track total sales & orders
 
-Trending books
+Customer purchase history
 
-Monthly best sellers
+Book search (name, author, category)
 
-Highest donors
+Donation book tracking
 
-Top revenue-generating categories
+Shopping cart management
+
+Admin book management (CRUD)
+
+Analytics using SUM, COUNT, GROUP BY, ORDER BY
+
+Subqueries for advanced reporting
